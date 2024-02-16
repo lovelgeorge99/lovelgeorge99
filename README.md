@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I am a full-stack web developer versed in MERN and Django-React setups.
 
 <!--
 **lovelgeorge99/lovelgeorge99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
